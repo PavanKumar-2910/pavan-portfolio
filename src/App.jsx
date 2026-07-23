@@ -26,7 +26,7 @@ import {
 } from "react-icons/si";
 import { MdEmail, MdCall, MdClose, MdCode, MdCloud, MdAnalytics, MdBuild } from "react-icons/md";
 import "./index.css";
-import { FaWhatsapp } from "react-icons/fa";
+
 
 const roles = [
   "a Full Stack Developer",
@@ -453,21 +453,7 @@ function App() {
             </div>
           </a>
 
-          <a
-  href="https://wa.me/919663294366"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="contact-card"
->
-  <div className="contact-icon">
-    <FaWhatsapp />
-  </div>
-
-  <div>
-    <h3>WhatsApp</h3>
-    <p>+91 9663294366</p>
-  </div>
-</a>
+          
 
           <a
             href="https://www.linkedin.com/in/pavan-kumar-d-m-92a432297/"
@@ -489,17 +475,7 @@ function App() {
             </div>
           </a>
 
-          <a
-            href="https://instagram.com/pavan_kumar_1688"
-            target="_blank"
-            className="contact-card instagram-card"
-          >
-            <span><FaInstagram /></span>
-            <div>
-              <h3>Instagram</h3>
-              <p>Follow me</p>
-            </div>
-          </a>
+          
         </div>
 
         <a href="/resume.pdf" target="_blank" className="resume-download">
