@@ -261,7 +261,7 @@ function App() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.9 }}
         >
-          <img src="/pavan-portfolio/profile.jpg" alt="Pavan Kumar" />
+          <img src="/pavan-portfolio/profile.png" alt="Pavan Kumar" />
         </motion.div>
       </section>
 
