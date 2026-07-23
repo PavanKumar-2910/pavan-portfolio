@@ -357,8 +357,8 @@ function App() {
   whileHover={{ y: -8 }}
   viewport={{ once: true }}
 >
-  <h3>ServiceNow Virtual Internship Program By SmartBridge</h3>
-  <h4>ServiceNow / EduSkills</h4>
+  <h3>ServiceNow Virtual Internship Program </h3>
+  <h4>ServiceNow / SmartBridge</h4>
   <h5>May 2026- Jun 2026</h5>
   <p>
     Completed a one-month virtual internship focused on ServiceNow platform
