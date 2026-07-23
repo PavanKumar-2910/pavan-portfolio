@@ -229,7 +229,7 @@ function App() {
           </AnimatePresence>
 
           <div className="hero-actions">
-            <a href="/pavan-portfolio/resume.pdf" target="_blank" className="main-btn">
+            <a href="/pavan-portfolio/Resume.pdf" target="_blank" className="main-btn">
               Resume
             </a>
 
@@ -478,7 +478,7 @@ function App() {
           
         </div>
 
-        <a href="/pavan-portfolio/resume.pdf" target="_blank" className="resume-download">
+        <a href="/pavan-portfolio/Resume.pdf" target="_blank" className="resume-download">
           📄 View Resume
         </a>
       </section>
