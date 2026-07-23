@@ -341,6 +341,23 @@ function App() {
               mobile application fundamentals, and developer tools.
             </p>
           </motion.div>
+
+          <motion.div
+  className="experience-card"
+  initial={{ opacity: 0, x: -60 }}
+  whileInView={{ opacity: 1, x: 0 }}
+  whileHover={{ y: -8 }}
+  viewport={{ once: true }}
+>
+  <h3>ServiceNow Virtual Internship</h3>
+  <h4>ServiceNow / EduSkills</h4>
+  <h5>May 2025 - Jun 2025</h5>
+  <p>
+    Completed a one-month virtual internship focused on ServiceNow platform
+    fundamentals, cloud-based workflows, automation concepts, and enterprise
+    service management practices.
+  </p>
+</motion.div>
         </div>
       </section>
 
