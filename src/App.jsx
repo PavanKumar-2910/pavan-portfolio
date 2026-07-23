@@ -152,13 +152,13 @@ const certificates = [
     pdf: "/pavan-portfolio/certificates/aws.pdf"
   },
   {
-    title: "Android Developer Virtual Internship",
-    org: "Google for Developers / EduSkills",
-    year: "2025",
-    icon: <FaGoogle />,
-    img: "/pavan-portfolio/certificates/android.png",
-    pdf: "/pavan-portfolio/certificates/android.pdf"
-  }
+  title: "Android Developer Virtual Internship",
+  org: "Google for Developers / EduSkills",
+  year: "2025",
+  icon: <FaGoogle />,
+  img: "/pavan-portfolio/certificates/android.png",
+  pdf: "/pavan-portfolio/certificates/android.pdf"
+}
 ];
 
 function App() {
