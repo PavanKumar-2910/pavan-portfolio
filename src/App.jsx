@@ -132,32 +132,32 @@ const certificates = [
     org: "Coursera / LearnQuest",
     year: "2024",
     icon: <FaJava />,
-    img: "/certificates/java.png",
-    pdf: "/certificates/java.pdf"
+    img: "/pavan-portfolio/certificates/java.png",
+    pdf: "/pavan-portfolio/certificates/java.pdf"
   },
   {
     title: "Networking Basics",
     org: "Cisco Networking Academy",
     year: "2025",
     icon: <SiCisco />,
-    img: "/certificates/networking.png",
-    pdf: "/certificates/networking.pdf"
+    img: "/pavan-portfolio/certificates/networking.png",
+    pdf: "/pavan-portfolio/certificates/networking.pdf"
   },
   {
     title: "AWS Data Engineering Virtual Internship",
     org: "AWS Academy / EduSkills",
     year: "2025",
     icon: <FaAws />,
-    img: "/certificates/aws.png",
-    pdf: "/certificates/aws.pdf"
+    img: "/pavan-portfolio/certificates/aws.png",
+    pdf: "/pavan-portfolio/certificates/aws.pdf"
   },
   {
     title: "Android Developer Virtual Internship",
     org: "Google for Developers / EduSkills",
     year: "2025",
     icon: <FaGoogle />,
-    img: "/certificates/android.png",
-    pdf: "/certificates/android.pdf"
+    img: "/pavan-portfolio/certificates/android.png",
+    pdf: "/pavan-portfolio/certificates/android.pdf"
   }
 ];
 
