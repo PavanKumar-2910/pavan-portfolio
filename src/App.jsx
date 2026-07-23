@@ -172,7 +172,7 @@ const certificates = [
 function App() {
   const [roleIndex, setRoleIndex] = useState(0);
   const [activeFilter, setActiveFilter] = useState("All Projects");
-  const [theme, setTheme] = useState("light");
+  const [theme, setTheme] = useState("dark");
   const [selectedCert, setSelectedCert] = useState(null);
 
   useEffect(() => {
