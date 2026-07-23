@@ -158,7 +158,15 @@ const certificates = [
   icon: <FaGoogle />,
   img: "/pavan-portfolio/certificates/andriod.png",
   pdf: "/pavan-portfolio/certificates/andriod.pdf"
-}
+  },
+  {
+  title: "ServiceNow Virtual Internship",
+  org: "ServiceNow / EduSkills",
+  year: "2025",
+  icon: <MdCloud />,
+  img: "/pavan-portfolio/certificates/servicenow.png",
+  pdf: "/pavan-portfolio/certificates/servicenow.pdf"
+ }
 ];
 
 function App() {
@@ -349,9 +357,9 @@ function App() {
   whileHover={{ y: -8 }}
   viewport={{ once: true }}
 >
-  <h3>ServiceNow Virtual Internship</h3>
+  <h3>ServiceNow Virtual Internship Program By SmartBridge</h3>
   <h4>ServiceNow / EduSkills</h4>
-  <h5>May 2025 - Jun 2025</h5>
+  <h5>May 2026- Jun 2026</h5>
   <p>
     Completed a one-month virtual internship focused on ServiceNow platform
     fundamentals, cloud-based workflows, automation concepts, and enterprise
