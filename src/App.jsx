@@ -22,8 +22,7 @@ import {
   SiPostman,
   SiFirebase,
   SiEclipseide,
-  SiJavascript,
-  SiOpenai
+  SiJavascript
 } from "react-icons/si";
 import { MdEmail, MdCall, MdClose, MdCode, MdCloud, MdAnalytics, MdBuild } from "react-icons/md";
 import "./index.css";
@@ -86,9 +85,9 @@ const skills = [
     title: "AI & Data",
     icon: <MdAnalytics />,
     items: [
-      { name: "Machine Learning", icon: <SiOpenai /> },
+      { name: "Machine Learning", icon: <MdAnalytics /> },
       { name: "Data Analysis", icon: <MdAnalytics /> },
-      { name: "LLM Agents", icon: <SiOpenai /> },
+      { name: "LLM Agents", icon: <MdAnalytics /> },
       { name: "Power BI Basics", icon: <MdAnalytics /> }
     ]
   }
