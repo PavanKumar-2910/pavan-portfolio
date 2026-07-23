@@ -6,6 +6,7 @@ import {
   FaGoogle,
   FaLinkedinIn,
   FaGithub,
+  FaInstagram,
   FaReact,
   FaPython,
   FaHtml5,
@@ -21,10 +22,12 @@ import {
   SiPostman,
   SiFirebase,
   SiEclipseide,
-  SiJavascript
+  SiJavascript,
+  SiOpenai
 } from "react-icons/si";
-import { MdCode, MdCloud, MdAnalytics, MdBuild } from "react-icons/md";
+import { MdEmail, MdCall, MdClose, MdCode, MdCloud, MdAnalytics, MdBuild } from "react-icons/md";
 import "./index.css";
+import { FaWhatsapp } from "react-icons/fa";
 
 const roles = [
   "a Full Stack Developer",
@@ -83,9 +86,9 @@ const skills = [
     title: "AI & Data",
     icon: <MdAnalytics />,
     items: [
-      { name: "Machine Learning", icon: <MdAnalytics />},
+      { name: "Machine Learning", icon: <SiOpenai /> },
       { name: "Data Analysis", icon: <MdAnalytics /> },
-      { name: "LLM Agents", icon: <MdAnalytics />},
+      { name: "LLM Agents", icon: <SiOpenai /> },
       { name: "Power BI Basics", icon: <MdAnalytics /> }
     ]
   }
@@ -451,7 +454,21 @@ function App() {
             </div>
           </a>
 
-          
+          <a
+  href="https://wa.me/919663294366"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="contact-card"
+>
+  <div className="contact-icon">
+    <FaWhatsapp />
+  </div>
+
+  <div>
+    <h3>WhatsApp</h3>
+    <p>+91 9663294366</p>
+  </div>
+</a>
 
           <a
             href="https://www.linkedin.com/in/pavan-kumar-d-m-92a432297/"
