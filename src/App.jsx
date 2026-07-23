@@ -156,8 +156,8 @@ const certificates = [
   org: "Google for Developers / EduSkills",
   year: "2025",
   icon: <FaGoogle />,
-  img: "/pavan-portfolio/certificates/android.png",
-  pdf: "/pavan-portfolio/certificates/android.pdf"
+  img: "/pavan-portfolio/certificates/andriod.png",
+  pdf: "/pavan-portfolio/certificates/andriod.pdf"
 }
 ];
 
