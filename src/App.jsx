@@ -478,7 +478,7 @@ function App() {
           
         </div>
 
-        <a href="/resume.pdf" target="_blank" className="resume-download">
+        <a href="/pavan-portfolio/resume.pdf" target="_blank" className="resume-download">
           📄 View Resume
         </a>
       </section>
